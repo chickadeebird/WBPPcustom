@@ -10,7 +10,7 @@
       </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:2.0.0">
-      <package fileName="WBPPv1.0.0beta.zip" sha1="5938d10a2915c7388fd1166cbdaf051c06a3e621" type="script" releaseDate="20250308">
+      <package fileName="WBPPv0.0.0beta.zip" sha1="5938d10a2915c7388fd1166cbdaf051c06a3e621" type="script" releaseDate="20250308">
          <title>
             Script for WBPP custom.
          </title>
